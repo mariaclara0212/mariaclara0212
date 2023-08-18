@@ -10,7 +10,8 @@
 </p>
 
 ### Languages I'm learning:
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" height="40px"/> </p>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" height="40px"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" width="40px" height="40px"/> </p>
 
 <div>
 <a href="https://github.com/mariaclara0212">
