@@ -1,17 +1,19 @@
 <h1 align="center">Hello, my name is Maria Clara! 👋<h1/>
 
-<img src="https://i.pinimg.com/564x/a3/4d/da/a34dda15caa163c2b31f7324cdf587aa.jpg" width="100%"/>
+<img src="https://images.unsplash.com/photo-1446771326090-d910bfaf00f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80" width="100%"/>
 
-### Languages I'm using:
+### Technologies I'm using:
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px" height="40px"/> 
 </p>
 
-### Languages I'm learning:
+### Technologies I'm learning:
 <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" height="40px"/> 
-    <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" width="40px" height="40px"/> </p>
+   <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" width="40px" height="40px"/> 
+    <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" width="40px" height="40px"/> 
+</p>
 
 <div>
 <a href="https://github.com/mariaclara0212">
